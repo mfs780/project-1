@@ -16,7 +16,7 @@ $quote = $quoteArr[array_rand($quoteArr, 1)];
 <body>
   <h1>mohammad fahad sheikh</h1>
 
-  <img class="profile-pic" src="images/Fahad.jpg"/>
+  <img class="profile-pic" src="images/Fahad.jpg" alt="Mohammad Fahad Sheikh Profile Picture"/>
 
   <h2>about me</h2>
 
